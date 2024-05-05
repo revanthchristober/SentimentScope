@@ -48,7 +48,7 @@ The application allows users to input review texts manually, upload files contai
 Contributions to **SentimentScope** are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on GitHub.
 
 ## License
-This project is licensed under the GNU 3.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact
 For questions, feedback, or inquiries, please contact [revanthchrixtopher@outlook.com](mailto:revanthchrixtopher@outlook.com).
